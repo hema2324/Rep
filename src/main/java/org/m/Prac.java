@@ -7,6 +7,8 @@ public class Prac {
 		int c=a+b;
 		System.out.println(c);
 		System.out.println(b);
+	System.out.println(a);
 	}
+	
 
 }
